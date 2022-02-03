@@ -1,0 +1,22 @@
+.carousel-caption {
+	position: absolute;
+	right: 15%;
+	bottom: 50%;
+	left: 15%;
+	padding-top: 1.25rem;
+	padding-bottom: 1.25rem;
+	color: #fff;
+	text-align: center;
+}
+.h5, h5 {
+	font-size: 2.25rem;
+}
+.hes {
+	font-size: 20px;
+	font-weight: 500;
+	padding: 10px 0;
+}
+p {
+	margin-top: 5px;
+	margin-bottom: 1rem;
+}
